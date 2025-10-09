@@ -35,8 +35,6 @@ flowchart TB
     Agent --> VertexRAG
 ```
 
-**[📚 View Full Architecture Documentation →](ARCHITECTURE_SIMPLE.md)**
-
 ## 🚀 Getting Started
 
 ### What You'll Need
@@ -178,7 +176,6 @@ Uses Google Cloud Application Default Credentials (ADC). Run `gcloud auth applic
 ## 📚 Documentation
 
 - **[Architecture Overview](ARCHITECTURE_SIMPLE.md)** - System design and data flow
-- **[Full Architecture Details](ARCHITECTURE.md)** - Comprehensive technical documentation
 - **[Vertex AI RAG Docs](https://cloud.google.com/vertex-ai/docs/generative-ai/rag-overview)** - Official Vertex AI documentation
 - **[Google ADK Docs](https://github.com/google/generative-ai-python)** - Agent Development Kit documentation
 
