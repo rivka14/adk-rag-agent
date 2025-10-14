@@ -11,7 +11,6 @@ Agent Development Kit (ADK) and Vertex AI.
 Query your documents using natural language and get AI-powered answers.
 
 ## Overview
-
 The Vertex AI RAG Agent allows you to:
 
 - Query document corpora with natural language questions
