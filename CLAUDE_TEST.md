@@ -1,1 +1,0 @@
-# Testing Claude as Contributor
