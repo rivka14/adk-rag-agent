@@ -4,7 +4,6 @@
 ![Google Cloud](https://img.shields.io/badge/cloud-Google%20Cloud-4285f4.svg)
 ![Vertex AI](https://img.shields.io/badge/service-Vertex%20AI-4285f4.svg)
 ![ADK](https://img.shields.io/badge/framework-Google%20ADK-4285f4.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 A Retrieval Augmented Generation (RAG) agent built with Google's 
 Agent Development Kit (ADK) and Vertex AI. 
@@ -176,9 +175,5 @@ Uses Google Cloud Application Default Credentials (ADC). Run `gcloud auth applic
 - **[Vertex AI RAG Docs](https://cloud.google.com/vertex-ai/docs/generative-ai/rag-overview)** - Official Vertex AI documentation
 - **[Google ADK Docs](https://github.com/google/generative-ai-python)** - Agent Development Kit documentation
 
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
